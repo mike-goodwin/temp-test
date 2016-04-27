@@ -1,0 +1,33 @@
+{
+  "summary": {
+    "title": "lmlmlml",
+    "owner": "m mm",
+    "description": "mkjmoiko"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "mm"
+      },
+      {
+        "name": "gtygty"
+      },
+      {
+        "name": "dedeer"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "mkkk",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      },
+      {
+        "title": "gyggyggy",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
+      }
+    ],
+    "reviewer": "m"
+  }
+}
