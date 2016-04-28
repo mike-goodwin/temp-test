@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "knklj",
+    "owner": "lmklkmn"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "nmlk",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  },
+  "location": {
+    "organisation": "mike-goodwin",
+    "repo": "temp-test",
+    "branch": "master",
+    "model": "knklj"
+  }
+}
