@@ -12,32 +12,6 @@
         "diagramJson": {
           "cells": [
             {
-              "type": "tm.Process",
-              "size": {
-                "width": 100,
-                "height": 100
-              },
-              "position": {
-                "x": 50,
-                "y": 50
-              },
-              "angle": 0,
-              "id": "b8ba6a86-fd20-405f-afa8-58e22b3c0a8c",
-              "z": 1,
-              "hasOpenThreats": false,
-              "attrs": {
-                ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isInScope"
-                },
-                "text": {
-                  "text": "process 0"
-                },
-                ".element-text": {
-                  "class": "element-text hasNoOpenThreats isInScope"
-                }
-              }
-            },
-            {
               "type": "tm.Actor",
               "size": {
                 "width": 160,
@@ -78,40 +52,6 @@
                 },
                 ".element-text": {
                   "class": "element-text hasOpenThreats isInScope"
-                }
-              }
-            },
-            {
-              "type": "tm.Flow",
-              "smooth": true,
-              "source": {
-                "id": "b8ba6a86-fd20-405f-afa8-58e22b3c0a8c"
-              },
-              "target": {
-                "id": "03cd12ab-b97c-423f-8282-aa57d18ab7b9"
-              },
-              "vertices": [],
-              "id": "c1c00217-460a-4684-b7e9-94c1c9fe6ddf",
-              "labels": [
-                {
-                  "position": 0.5,
-                  "attrs": {
-                    "text": {
-                      "text": "flow 2",
-                      "font-weight": "400",
-                      "font-size": "small"
-                    }
-                  }
-                }
-              ],
-              "z": 3,
-              "hasOpenThreats": false,
-              "attrs": {
-                ".marker-target": {
-                  "class": "marker-target hasNoOpenThreats isInScope"
-                },
-                ".connection": {
-                  "class": "connection hasNoOpenThreats isInScope"
                 }
               }
             }
