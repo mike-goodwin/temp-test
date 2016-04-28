@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "Test Model 2"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  },
+  "location": {
+    "organisation": "mike-goodwin",
+    "repo": "temp-test",
+    "branch": "master",
+    "model": "Test_Model 2"
+  }
+}
