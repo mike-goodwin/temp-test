@@ -1,0 +1,21 @@
+{
+  "summary": {
+    "title": "hbb"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "fcc",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  },
+  "location": {
+    "organisation": "mike-goodwin",
+    "repo": "temp-test",
+    "branch": "master",
+    "model": "hbb"
+  }
+}
