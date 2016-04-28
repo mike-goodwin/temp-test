@@ -19,8 +19,8 @@
                 "height": 100
               },
               "position": {
-                "x": 415,
-                "y": 25
+                "x": 521,
+                "y": 255
               },
               "angle": 0,
               "id": "924bbf2d-2774-4668-a204-346dfee95f6c",
@@ -129,6 +129,84 @@
                 },
                 ".connection": {
                   "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Process",
+              "size": {
+                "width": 100,
+                "height": 100
+              },
+              "position": {
+                "x": 453,
+                "y": 18
+              },
+              "angle": 0,
+              "id": "263b9a8b-67c8-457b-8232-de04eb564b17",
+              "z": 4,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "process 3"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Process",
+              "size": {
+                "width": 100,
+                "height": 100
+              },
+              "position": {
+                "x": 118,
+                "y": 26
+              },
+              "angle": 0,
+              "id": "c3e4de18-df79-4b3c-b9f1-e0388a9e4585",
+              "z": 5,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "process 4"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Process",
+              "size": {
+                "width": 100,
+                "height": 100
+              },
+              "position": {
+                "x": 293,
+                "y": 81
+              },
+              "angle": 0,
+              "id": "54b2e7ee-5e18-4f41-b473-37db006b2afe",
+              "z": 6,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "process 5"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
                 }
               }
             }
