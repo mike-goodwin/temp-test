@@ -1,6 +1,7 @@
 {
   "summary": {
-    "title": "another model"
+    "title": "another model",
+    "owner": "with an owner"
   },
   "detail": {
     "contributors": [],
