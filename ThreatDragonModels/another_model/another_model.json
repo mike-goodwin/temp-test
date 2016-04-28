@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "another model"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  },
+  "location": {
+    "organisation": "mike-goodwin",
+    "repo": "temp-test",
+    "branch": "master",
+    "model": "another_model"
+  }
+}
