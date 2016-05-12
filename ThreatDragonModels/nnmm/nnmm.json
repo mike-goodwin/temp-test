@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "nnmm"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  },
+  "location": {
+    "organisation": "mike-goodwin",
+    "repo": "temp-test",
+    "branch": "master",
+    "model": "nnmm"
+  }
+}
