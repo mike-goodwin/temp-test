@@ -1,6 +1,6 @@
 {
   "summary": {
-    "title": "passing test"
+    "title": "passing testx"
   },
   "detail": {
     "contributors": [],
@@ -130,7 +130,7 @@
   "location": {
     "organisation": "mike-goodwin",
     "repo": "temp-test",
-    "branch": "master",
+    "branch": "b7",
     "model": "passing_test"
   }
 }
