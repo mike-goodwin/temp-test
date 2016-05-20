@@ -1,0 +1,21 @@
+{
+  "summary": {
+    "title": "new model woot"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "hjhjjj",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  },
+  "location": {
+    "organisation": "mike-goodwin",
+    "repo": "temp-test",
+    "branch": "b7",
+    "model": "new model woot"
+  }
+}
