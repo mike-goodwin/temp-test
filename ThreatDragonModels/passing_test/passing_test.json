@@ -6,7 +6,7 @@
     "contributors": [],
     "diagrams": [
       {
-        "title": "nn",
+        "title": "nnnn",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0,
         "diagramJson": {
@@ -18,8 +18,8 @@
                 "height": 80
               },
               "position": {
-                "x": 413,
-                "y": 217
+                "x": 403,
+                "y": 206
               },
               "angle": 0,
               "id": "26e07b15-2b40-4283-a485-fa9364a2fefb",
