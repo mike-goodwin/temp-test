@@ -1,6 +1,6 @@
 {
   "summary": {
-    "title": "another model",
+    "title": "another_model",
     "owner": "with owner"
   },
   "detail": {
@@ -10,7 +10,7 @@
   "location": {
     "organisation": "mike-goodwin",
     "repo": "temp-test",
-    "branch": "master",
+    "branch": "b`",
     "model": "another_model"
   }
 }
