@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "thumb bug"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "bbb",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
