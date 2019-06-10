@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "another model",
+    "owner": "with owner"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "dgdfgsdfgsdf",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  },
+  "location": {
+    "organisation": "mike-goodwin",
+    "repo": "temp-test",
+    "branch": "master",
+    "model": "another_model"
+  }
+}
