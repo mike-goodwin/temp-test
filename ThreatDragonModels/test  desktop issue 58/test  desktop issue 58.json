@@ -120,7 +120,7 @@
                 "height": 100
               },
               "position": {
-                "x": 327,
+                "x": 328,
                 "y": 46
               },
               "angle": 0,
@@ -177,9 +177,11 @@
                   "description": "A generic elevation threat"
                 }
               ],
+              "outOfScope": true,
+              "reasonOutOfScope": "i said so",
               "attrs": {
                 ".element-shape": {
-                  "class": "element-shape hasOpenThreats isInScope"
+                  "class": "element-shape hasOpenThreats isOutOfScope"
                 },
                 "text": {
                   "text": "process 2"
